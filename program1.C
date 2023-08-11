@@ -1,6 +1,4 @@
-1  // Reverse of numbers:  
-i/p:123    o/p:321
-
+#include<stdio.h>
 int main()
 {
     int rev, num;
